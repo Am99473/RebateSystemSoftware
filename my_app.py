@@ -72,7 +72,7 @@ Login_Layout = html.Div([
         html.Div(id='Login_Output')
 
     ], style={'background-color': '#d8f8ff', 'border': '1px solid #0091af', 'border-radius': '20px',
-              'marginTop': '90px', 'marginLeft': '100px', 'height': '600px', 'width': '650px'})
+              'marginTop': '90px', 'marginLeft': '100px', 'height': '650px', 'width': '650px'})
 
 ], style={'background-color': 'F5FEFF', 'height': '100vh', 'width': '100vw', 'display': 'flex'})
 # ] , style={'background-color':'#d8f8ff', 'height':'100vh', 'width':'100vw', 'display':'flex' })
