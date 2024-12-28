@@ -25,7 +25,7 @@ data_try_temp_2 = data_try_temp = data_try.copy()
 
 # Jarir_Logo = Image.open("C:/Users/ASUS/Downloads/Jarir.jpg")
 
-img  = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fappsource.microsoft.com%2Fen-us%2Fproduct%2Fweb-apps%2Ftest_test_mix3pptest0011614206850774.ds-contoso-image-resize-demo-sk2%3Ftab%3Doverview&psig=AOvVaw2zhw-KG-Iro-kRAQAXJvIb&ust=1735494928685000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjD85HHhMuKAxV0YEEAHXAKKAQQjRx6BAgAEBk'
+img  = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWHjsqRBr2Z1x1CPKLmZw54AcooJFpKyGGDA&s'
 
 Login_Layout = html.Div([
 
@@ -72,7 +72,7 @@ Login_Layout = html.Div([
         html.Div(id='Login_Output')
 
     ], style={'background-color': '#d8f8ff', 'border': '1px solid #0091af', 'border-radius': '20px',
-              'marginTop': '80px', 'marginLeft': '50px', 'height': '600px', 'width': '650px'})
+              'marginTop': '90px', 'marginLeft': '100px', 'height': '600px', 'width': '650px'})
 
 ], style={'background-color': 'F5FEFF', 'height': '100vh', 'width': '100vw', 'display': 'flex'})
 # ] , style={'background-color':'#d8f8ff', 'height':'100vh', 'width':'100vw', 'display':'flex' })
