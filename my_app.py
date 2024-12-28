@@ -26,7 +26,7 @@ data_try_temp_2 = data_try_temp = data_try.copy()
 
 # Jarir_Logo = Image.open("C:/Users/ASUS/Downloads/Jarir.jpg")
 
-img  ='data:image/jpeg;base64,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'
+img  = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fappsource.microsoft.com%2Fen-us%2Fproduct%2Fweb-apps%2Ftest_test_mix3pptest0011614206850774.ds-contoso-image-resize-demo-sk2%3Ftab%3Doverview&psig=AOvVaw2zhw-KG-Iro-kRAQAXJvIb&ust=1735494928685000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjD85HHhMuKAxV0YEEAHXAKKAQQjRx6BAgAEBk'
 
 Login_Layout = html.Div([
 
@@ -99,7 +99,7 @@ striped_row_style = {
 
 VALID_USERNAME = None
 
-data = pd.read_excel('C:/Users/ASUS/Documents/Rebate System Project/Vendor_Details.xlsx')
+data = pd.read_excel('assets/Vendor_Details.xlsx')
 data = data.fillna('NULLVALUES')
 # data['Vendor'] = data['Vendor'].astype('int')
 
@@ -145,7 +145,7 @@ Vendor_Var = 0
 # for randome Selections for vendor dropdwons
 filtered_data = data.copy()
 
-data2 = pd.read_excel('C:/Users/ASUS/Documents/Rebate System Project/Rebate_Master.xlsx')
+data2 = pd.read_excel('assets/Rebate_Master.xlsx')
 
 data2 = data2[['Teritory', 'Rebate From Date', 'Rebate To Date',
                'Rebate Frequency', 'Currency', 'Rebate Type']]
@@ -392,7 +392,6 @@ modal5 = html.Div(
                                                                  'color': '#40396F', 'marginLeft': '270px'}),
                 html.Hr(style={'marginTop': '0.05px',
                         'borderWidth': '3px', 'color': '#40396F'}),
-
                 dbc.ModalBody(
                     html.Ul(list_items),
                     id='ModalBody'
@@ -672,7 +671,7 @@ columns = ['USER', 'Date', 'status', 'Supplier_Name', 'Supplier_Number', 'Vendor
            'Rebate_Currency', 'InputSalesAmount', 'InputRebatesMargin']
 
 
-conn = sqlite3.connect('C:/Users/ASUS/Documents/Rebate System Project/Dash_Rebate_Database.db')
+conn = sqlite3.connect('assets/Dash_Rebate_Database.db')
 cursor = conn.cursor()
 
 data_try = pd.read_sql('SELECT * FROM Vendor_Selections', conn)
@@ -970,7 +969,7 @@ def callback1(Dimension, Approved, Rejected, Submit, Back2, selected_rows):
                 WHERE index_1 IN ({my_placeholder_3});
                 '''  
                
-            conn = sqlite3.connect('C:/Users/ASUS/Documents/Rebate System Project/Dash_Rebate_Database.db')
+            conn = sqlite3.connect('assets/Dash_Rebate_Database.db')
             cursor = conn.cursor()
            
             all_values = tuple(var1 + var2 + var3)
@@ -1265,7 +1264,7 @@ def display_page(pathname, pathname2, pathname3):
 
     elif pathname == '/Approval' and VALID_USERNAME == 'admin':
         # print('working till here........')
-        conn = sqlite3.connect('C:/Users/ASUS/Documents/Rebate System Project/Dash_Rebate_Database.db')
+        conn = sqlite3.connect('assets/Dash_Rebate_Database.db')
 
         cursor = conn.cursor()
 
@@ -1424,7 +1423,7 @@ def func_2(pass_code):
         # print('query values are : ' , query)
        
         # conn = sqlite3.connect(#'C:/Users/ASUS/Documents/Rebate System Project/Dash_Rebate_Database.db')
-        conn = sqlite3.connect('C:/Users/ASUS/Documents/Rebate System Project/Dash_Rebate_Database.db')
+        conn = sqlite3.connect('assets/Dash_Rebate_Database.db')
    
         cursor = conn.cursor()
    
@@ -1479,7 +1478,7 @@ def func_3(pass_code_2):
        
         triggered_id = dash.callback_context.triggered[0]['prop_id'].split('.')[0]
    
-        conn = sqlite3.connect('C:/Users/ASUS/Documents/Rebate System Project/Dash_Rebate_Database.db')
+        conn = sqlite3.connect('assets/Dash_Rebate_Database.db')
 
         if not df_from_sql.empty:
             table = dash_table.DataTable(
@@ -1590,7 +1589,7 @@ def Update_Button(n_clicks, updated_table):
         style_header={'backgroundColor': 'lightgrey', 'fontWeight': 'bold'},
         )
        
-        conn = sqlite3.connect('C:/Users/ASUS/Documents/Rebate System Project/Dash_Rebate_Database.db')
+        conn = sqlite3.connect('assets/Dash_Rebate_Database.db')
         cursor = conn.cursor()
        
         # SQL_data_query = 'SELECT index_1 FROM Vendor_Selections WHERE index_1 = ?'
