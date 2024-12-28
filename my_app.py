@@ -2013,6 +2013,6 @@ def value_update(*dropdown_values):
           Slabs, Rebates
       ]
 
-app.run_server(debug=False, host="0.0.0.0", port=port)
+app.run_server(debug=False, host="0.0.0.0")
 
 #app.run_server(debug=True)
