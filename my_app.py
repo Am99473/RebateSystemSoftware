@@ -6,7 +6,6 @@ import pandas as pd
 import sys
 import sqlite3
 import dash_bootstrap_components as dbc
-from Pillow import Image
 from datetime import datetime
 from dash import dash_table
 import numpy as np
