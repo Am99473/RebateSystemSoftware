@@ -2014,4 +2014,4 @@ def value_update(*dropdown_values):
       ]
 
 
-app.run_server(debug=True, port=2037)
+app.run_server(debug=True)
