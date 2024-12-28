@@ -1,4 +1,4 @@
-PIL
+Pillow
 openpyxl
 gunicorn
 blinker==1.9.0
